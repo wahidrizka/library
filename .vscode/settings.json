@@ -1,5 +1,6 @@
 {
   "odooScaffold.odooBinPath": "C:\\Program Files\\Odoo 15.0.20240802\\server\\odoo-bin",
   "odooScaffold.pythonVirtualEnv": "C:\\Program Files\\Odoo 15.0.20240802\\python\\python.exe",
+  "python.languageServer": "None",
   // "odooTemplatePath": "absolute/path/to/moduletemplate"
 }
